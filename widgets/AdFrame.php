@@ -1,5 +1,5 @@
 <?php
-namespace humhub\modules\adsense\widgets;
+namespace humhub\modules\adspanel\widgets;
 
 use humhub\components\Widget;
 
