@@ -4,7 +4,7 @@ use humhub\models\Setting;
 ?>
 <div class="panel">
   <div class="panel-heading">
-    <?=Yii::t('AdsenseModule.base', '<strong>Ad</strong> Panel'); ?>
+    <?=Yii::t('AdspanelModule.base', '<strong>Ads</strong> Panel'); ?>
   </div>
   <div class="panel-body">
   <div id="slideshow">
