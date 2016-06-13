@@ -20,7 +20,7 @@ class AdminController extends \humhub\modules\admin\components\Controller
 
     public function actionIndex()
     {
-        $form = new \humhub\modules\adsense\forms\SettingsForm();
+        $form = new \humhub\modules\adspanel\forms\SettingsForm();
         if ($form->load(Yii::$app->request->post())) {
             if ($form->validate()) {
                 Setting::Set('sort', $form->sort, 'adspanel');
