@@ -21,11 +21,12 @@ class Events extends \yii\base\Object
         ]);
     }
 
-    public static function addAdFrame($event)
+public static function addAdFrame($event)
     {
         if (Yii::$app->user->isGuest) {
             return;
         }
+        $event->sender->view->registerAssetBundle(Assets::className());
         $event->sender->addWidget(AdFrame::className(), [], [
             'sortOrder' => Setting::Get('timeout', 'adspanel')
         ]);
