@@ -27,7 +27,7 @@ class Events extends \yii\base\Object
             return;
         }
         $event->sender->addWidget(AdFrame::className(), [], [
-            'sortOrder' => Setting::Get('timeout', 'adsense')
+            'sortOrder' => Setting::Get('timeout', 'adspanel')
         ]);
     }
 }
