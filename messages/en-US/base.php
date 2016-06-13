@@ -1,6 +1,6 @@
 <?php
 return [
     'Adspanel' => 'Adspanel',
-    'sort' => 'Adspanel sort order, position',
+    'sort' => 'Adspanel sort order',
     'save' => 'Save',
 ];
