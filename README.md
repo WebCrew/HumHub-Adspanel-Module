@@ -22,4 +22,4 @@ __Author website:__ [https://github.com/WebCrew](https://github.com/WebCrew)
 __Author:__ Andreas Holzer (WebCrew)
 
 __Special Thanks to:__ [https://github.com/petersmithca](https://github.com/petersmithca) 
-                       Peter Smith My module was based on Peters Adsense Module.
+                       Peter Smith My module was based on Peters Adsense Module and he helped me to fix a problem.
