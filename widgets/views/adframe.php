@@ -19,3 +19,4 @@ use humhub\models\Setting;
    </div>
 </div>
 </div>
+</div>
