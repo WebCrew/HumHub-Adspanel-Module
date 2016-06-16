@@ -4,7 +4,7 @@ This module is for HumHub Version 0.20+ (Yii 2) and cant be used with older vers
 
 ## Description
 
-This module adds a simple ads slider widget to humhub`s sidebar.  You have to integrate the slides manually. To do it open adspanel/widgets/views/adframe.php at line 10 and replace the demo slides with Your content.
+This module adds a simple ads slider widget to humhub`s sidebar.  You have to integrate the slides manually. To do it open adspanel/widgets/views/adframe.php near line 18 and replace the demo slides/images and caption texts (H2) with Your content.
 
 Widget works on spaces, dashboard and profile.
 
