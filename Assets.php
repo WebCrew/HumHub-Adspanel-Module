@@ -16,10 +16,6 @@ class Assets extends AssetBundle
         'slider.css',
     ];
 
-    public $js = [
-        'slider.js',
-    ];
-
     public function init()
     {
         $this->sourcePath = dirname(__FILE__) . '/assets';
