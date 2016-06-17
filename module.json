@@ -3,7 +3,7 @@
     "name": "Adspanel",
     "description": "Adds a Ads Slider Functionality to HumHub`s sidebar.",
     "keywords": ["ads", "panel"],
-    "version": "0.0.1",
+    "version": "0.0.3",
     "humhub": {
         "minVersion": "0.20"
     }
