@@ -15,6 +15,10 @@ class Assets extends AssetBundle
     public $css = [
         'slider.css',
     ];
+    
+    public $js = [
+        'slider.js',
+    ];
 
     public function init()
     {
