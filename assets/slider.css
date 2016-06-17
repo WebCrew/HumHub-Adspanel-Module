@@ -17,7 +17,9 @@
 }
 
 .carousel-caption {
-  background-color: rgba(0,0,0,.5);
+  display: none;
+  
+/*  background-color: rgba(0,0,0,.5);
   position: absolute;
   left: 0;
   right: 0;
@@ -26,6 +28,7 @@
   padding: 0 0 10px 25px;
   color: #fff;
   text-align: left;
+  */
 }
 
 .carousel-indicators {
