@@ -32,8 +32,11 @@ __Module website:__ <https://github.com/WebCrew/humhub-adspanel>
 __Author website:__ [https://github.com/WebCrew](https://github.com/WebCrew)    
                     Andreas Holzer (WebCrew)
 
-__Special Thanks to:__ [https://github.com/petersmithca](https://github.com/petersmithca) 
+
+__Special Thanks to:__ Peter Smith https://github.com/petersmithca
                        Peter Smith My module was based on Peters Adsense Module and he helped me to fix a problem.
                        
-                       [https://github.com/Felli](https://github.com/Felli)
-                       Felli (Sarah Tsumayoi) She gave us the Japanese language pack
+                       
+__Special Thanks to:__ Felli https://github.com/Felli
+                       Sarah T. gave us the japanese language files
+                       
