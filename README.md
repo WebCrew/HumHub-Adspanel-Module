@@ -4,8 +4,10 @@ This module is for HumHub Version 0.20+ (Yii 2) and cant be used with older vers
 
 ## Description
 
-This module adds a simple ads slider widget to humhub`s sidebar.  By default I integrated 6 slides.
-Widget works on spaces, dashboard and profile.
+This module adds a simple ads slider widget to humhubs sidebar.  By default I integrated 6 slides.
+Widget works on spaces, dashboard and profile. The modules base language is English.
+
+Thx to @Felli the module does come now with Japanese and Korean language files by default!
 
 
 ## Slides/Image integration
