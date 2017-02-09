@@ -2,6 +2,15 @@
 
 This module is for HumHub Version 0.20+ (Yii 2) and cant be used with older versions!
 
+***
+
+
+**NOTE: I will no longer make use of HumHub and I stop updating my modules and themes for HumHub.It is up to you, you are welcome to update the modules and themes in the future.**
+
+***
+
+
+
 ## Description
 
 This module adds a simple ads slider widget to humhubs sidebar.  By default I integrated 6 slides.
