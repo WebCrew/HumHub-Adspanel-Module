@@ -1,7 +1,7 @@
 <?php
 
 use humhub\compat\CActiveForm;
-use humhub\compat\CHtml
+use humhub\compat\CHtml;
 use humhub\models\Setting;
 use humhub\modules\adspanel\controllers\AdminController;
 ?>
